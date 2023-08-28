@@ -1,5 +1,5 @@
 import { View, Text, Pressable, Alert } from "react-native";
-import { todoStyle } from "../styles";
+import { todoStyle } from "./style";
 
 export function Todo(props) {
   return (

@@ -1,6 +1,6 @@
 import { View } from 'react-native';
-import { styles, todoBarStyle } from './src/styles';
-import Main from './src/main';
+import { styles } from './src/screens/main/style';
+import Main from './src/screens/main/main';
 
 export default function App() {
   return (
